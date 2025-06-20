@@ -1,2 +1,1 @@
-This is my learning file.
-So far i have learned how to use github, its a bit hard but i am trying.
+I've learned how to navigate the terminal confidently—moving between directories with cd, listing files with ls, and checking my current path with pwd. I can now create files (touch), copy and move them (cp, mv), and even delete them carefully (rm).
