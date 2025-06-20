@@ -1,1 +1,3 @@
-I've learned how to navigate the terminal confidently—moving between directories with cd, listing files with ls, and checking my current path with pwd. I can now create files (touch), copy and move them (cp, mv), and even delete them carefully (rm).
+I've learned how to navigate the terminal confidently—moving between directories with cd, listing files with ls, and checking my current path with pwd. 
+I can now create files (touch), copy and move them (cp, mv), and even delete them carefully (rm).
+I’ve also started understanding file permissions (chmod) and how to read them (ls -l). Editing files in nano feels less intimidating now, and I’ve even written a simple shell script! The man command has been a lifesaver for looking up syntax. Next, I’m excited to dive into piping (|) and grep for text processing!
